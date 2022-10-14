@@ -4,6 +4,7 @@ package it.progetto.crud.model;
 import javax.persistence.*;
 
 @Entity
+@Table(name="dipendenti")
 public class Dipendente {
 
 
